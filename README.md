@@ -1,4 +1,4 @@
-# 🚗 Road Accident Analysis Dashboard (Power BI)
+# 🚗 Road Accident Analysis Dashboard 
 
 An End-to-End Data Analytics Project designed to visualize, interpret, and extract meaningful insights from India's road accident data across the years 2021 and 2022 using Power BI.
 
