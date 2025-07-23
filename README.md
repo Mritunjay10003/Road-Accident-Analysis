@@ -63,4 +63,45 @@ This project is a comprehensive dashboard solution built in **Power BI** for ana
 ---
 
 
+---
+
+## 🧠 Skills Demonstrated
+
+- Data Analytics & Business Intelligence  
+- Power BI: ETL, Modeling, DAX, Slicers  
+- Data Storytelling & Visual Communication  
+- Dashboard UI/UX best practices
+
+---
+
+## 📂 Files in this Repo
+
+| File Name                        | Description                                 |
+|----------------------------------|---------------------------------------------|
+| Road Accident Dashboard.pbix     | Power BI Dashboard File                     |
+| README.md                        | Project Documentation                       |
+
+
+---
+
+## 🧬 Future Enhancements
+
+- Automate dataset refresh from government portals  
+- Add drill-through pages per state or city  
+- Integrate with real-time APIs for live reporting
+
+---
+
+## 📬 Contact
+
+**Mritunjay Singh**  
+📧 Email: mritunjaysingh.as@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/mritunjaysingh10003](https://linkedin.com/in/mritunjaysingh10003)  
+
+
+---
+
+> ⭐ *“Data beats emotions when decisions need direction.”*
+
+
 
